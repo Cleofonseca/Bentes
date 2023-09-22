@@ -1,5 +1,5 @@
 Lista de Maquiagem 
-- [x] Lápis de olho
+- [x] Lápis
 - [x] Pócompacto
 - [x] Cilíos
 - [ ] Sombras
